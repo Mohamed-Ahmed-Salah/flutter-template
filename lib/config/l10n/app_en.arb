@@ -1,0 +1,28 @@
+{
+  "language": "English",
+  "@language": {
+    "description": "The current Language"
+  },
+  "helloWorld": "Hello World!",
+  "@helloWorld": {
+    "description": "A programmer greeting"
+  },
+  "hiKing": "Hello King sama!",
+  "@hiKing": {
+    "description": "A king hiKing"
+  },
+  "dark": "Dark",
+  "light": "Light",
+  "skip": "Skip",
+  "style": "Choose a style",
+  "pop": "Pop or subtle. Day or night. Customize your interface",
+  "hello": "Hello {username}",
+  "@hello": {
+    "description": "A welcome message",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  }
+}
